@@ -1,0 +1,25 @@
+git status
+git init
+clear
+ls
+dir
+git add <file name>
+git commit "helo ola"
+git push <origin>
+git restore
+clear
+git status
+devos for us
+
+git init
+git remote -v
+git remote set-url origin
+
+git push origin master
+git remote -v
+clear
+git status
+clear
+ change
+ chahe
+ 
